@@ -1,2 +1,5 @@
-hello
-2222
+# CART470 Journal 
+
+Welcome to my journal repository for the CART470 project, links for each week entry: 
+
+* [Journal WK 2](./Journal-Entry-Wk-2.md)
