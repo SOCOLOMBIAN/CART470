@@ -12,7 +12,9 @@ I like to work in different steps:
 
 They are really small beads, something that also is important to mention and ask to the client since this will give us a better idea of how we can incorporate things.
 
-![ceramic](images/ceramicbeads.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+</picture>
 
 
 
