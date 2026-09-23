@@ -12,7 +12,7 @@ I like to work in different steps:
 
 They are really small beads, something that also is important to mention and ask to the client since this will give us a better idea of how we can incorporate things.
 
-![ceramic](./images/ceramicbeads.png)
+![ceramic](images/ceramicbeads.png)
 
 
 
