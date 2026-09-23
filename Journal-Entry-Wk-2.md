@@ -10,7 +10,7 @@ I like to work in different steps:
 
 note: They are really small beads, something that also is important to mention and ask to the client since this will give us a better idea of how we can incorporate things.
 
-![image](./beads.png)
+![images](./beads.png)
 
 #3. 
 
