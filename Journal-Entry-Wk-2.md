@@ -1,7 +1,5 @@
 # hello week 2
 
-
-
 For this week, i was thinking about the idea of this project and the meaning that wants to be reflected. I did some research to learn more about the topic and how this project will reflect on that.
 
 I like to work in different steps: 
@@ -10,11 +8,12 @@ I like to work in different steps:
 
 #2. Learn more about the materials that are being used to reflect on this topic, at the beginning i didn't understand what ceramic beads means but with some research i have a better understanding.
 
-They are really small beads, something that also is important to mention and ask to the client since this will give us a better idea of how we can incorporate things.
+note: They are really small beads, something that also is important to mention and ask to the client since this will give us a better idea of how we can incorporate things.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-</picture>
+![image](./beads.png)
+
+#3. 
+
 
 
 
