@@ -39,8 +39,3 @@ idea:
 -  dive into Grid-EYE / Thermopile sensor specs, Arduino/Raspberry Pi integration, and power requirements.
 - 3D / Clay : do some researh about the ceramic pieces. 
 
-
-
-
-
-
