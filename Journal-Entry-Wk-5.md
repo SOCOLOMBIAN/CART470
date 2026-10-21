@@ -31,3 +31,7 @@ sketches
 3D model 
 
 ![proto3](images/pro3.png)
+
+
+Appointment is for wednesday to talk about the prototype 
+thursday: printing of the prototype.
