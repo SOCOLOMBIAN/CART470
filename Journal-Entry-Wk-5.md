@@ -25,9 +25,9 @@ Images for reference
 
 sketches 
 
-![Tambour](images/proto1.png)
-![Tambour](images/proto2.png)
+![proto1](images/pro1.png)
+![proto2](images/pro2.png)
 
 3D model 
 
-![proto3](images/proto3.png)
+![proto3](images/pro3.png)
