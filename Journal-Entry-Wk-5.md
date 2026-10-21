@@ -21,16 +21,13 @@ Initially, we wanted to create a box to put all the components inside, but i tri
 
 Images for reference 
 
-
 ![Tambour](images/tambour.png)
-
-
-
 
 sketches 
 
-
-
-
+![Tambour](images/proto1.png)
+![Tambour](images/proto2.png)
 
 3D model 
+
+![proto3](images/proto3.png)
