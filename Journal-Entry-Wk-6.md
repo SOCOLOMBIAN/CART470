@@ -9,6 +9,7 @@ AT first we created a cylindrical shape to fit the asthethic of the project, the
 Also, we were able to test all the prototype with the model and the sensors. And everything worked good.
 
 ![sensor](./images/sensor.jpg)
+![now2](./images/sensor2.jpg)
 
 Next challenges: 
 
