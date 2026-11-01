@@ -25,12 +25,12 @@ Images for reference
 
 sketches 
 
-![proto1](images/pro1.png)
-![proto2](images/pro2.png)
+![pro1](images/pro1.png)
+![pro2](images/pro2.jpg)
 
 3D model 
 
-![proto3](images/pro3.png)
+![proto3](images/proto3.png)
 
 
 Appointment is for wednesday to talk about the prototype 
