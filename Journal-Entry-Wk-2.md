@@ -10,7 +10,7 @@ I like to work in different steps:
 
 note: They are really small beads, something that also is important to mention and ask to the client since this will give us a better idea of how we can incorporate things.
 
-   <img src="./images/beads.png" alt="ceramic beads" width="400">
+![ceramic beads](./images/beads.png)
 
 #3. started the ideation of how the voices can be in someway incorporated to the ceramic: i like the idea of using color and sensors that will be activated. I also though about maybe having people interact with this piece in someway. 
 
