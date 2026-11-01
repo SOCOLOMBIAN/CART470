@@ -8,9 +8,7 @@ AT first we created a cylindrical shape to fit the asthethic of the project, the
 
 Also, we were able to test all the prototype with the model and the sensors. And everything worked good.
 
-<img width="300" alt="sensor prototype" src="sensor.jpg" />
-<img width="300" alt="sensor prototype" src="sensor2.jpg" />
-
+![sensor](./images/sensor.jpg)
 
 Next challenges: 
 
